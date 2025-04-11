@@ -6,6 +6,11 @@
             "stepDuration":5,
             "maximumUncleCountTransition":0,
             "maximumUncleCount":0,
+            "blockRewardContractAddress": "0xD7A20331C2690a4753398df110a6AA660a6096a5",
+            "blockRewardContractTransition": "1556860",
+            "blockRewardContractTransitions": {
+               "15568950": "0x50F3b0fE786834829B86cCAd10e196DA83BE43d2"
+            },
             "validators":{
                "multi":{
                   "0":{
@@ -18,6 +23,9 @@
                   },
                  "1474400": {
                    "safeContract": "0x6B097003c846327feC9A9d4ecE4E470508135a48"
+                 },
+                 "1556450": {
+                   "safeContract": "0x0d484592361188F5dDC2acEe2DECaf4e20959792"
                  }
                }
             }
