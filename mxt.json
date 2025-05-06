@@ -16,8 +16,14 @@
                         "0x506935ad60db5f00f69eeb4f5cdf8786df5eb557"
                      ]
                   },
-                 "1474400": {
-                   "safeContract": "0x6B097003c846327feC9A9d4ecE4E470508135a48"
+                 "179350": {
+                   "safeContract": "0xcf6a97B1b5a3c715fEAC8A1C50d7D262DaeBFA05"
+                 },
+                 "189622": {
+                   "safeContract": "0xAC0c6EF2c721C8724cD58144E319041Cc8a82E93"
+                 },
+                 "196500": {
+                   "safeContract": "0x0B80014B2d68d731E2513E1b5C6f6C9380Bf85f6"
                  }
                }
             }
